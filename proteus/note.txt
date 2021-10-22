@@ -1,0 +1,5 @@
+Mô phỏng: Vi điều khiển 8051 điều khiển sử dụng nút nhấn điều khiển 16 led
+
+Liên hệ:
+Shop điện tử Quy Nhơn
+Linh kiện điện tử L2D
